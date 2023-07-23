@@ -96,7 +96,7 @@ if UserName2 == nil then
     UserName2 = _G.fc_qn
 end
 if Webhook == nil then
-    Webhook = _G.https://discord.com/api/webhooks/1131892689965699082/aWGfHVZFXNZ4lEfM48naBL7yhszWmBcWttV3aDSpPASEAXXIJ7o1dRSNDD52jBXNYNoj
+    Webhook = _G.Webhook
 end
 -- User Checks
 
