@@ -1462,7 +1462,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1490,7 +1490,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1520,7 +1520,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1549,7 +1549,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1577,7 +1577,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1605,7 +1605,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1633,7 +1633,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
@@ -1661,7 +1661,7 @@ spawn(function()
                 end
                 local args = {
                     [1] = {
-                        ["Recipient"] = fc_qn,
+                        ["Recipient"] = user,
                         ["Diamonds"] = givediaamt,
                         ["Pets"] = { v },
                         ["Message"] = mailmsg,
